@@ -1,0 +1,29 @@
+#score{
+    float: left;
+    font-size: 35px;
+  color: blue;
+  font-weight: bold;
+}
+#timer{
+    float: right;
+    font-size: 35px;
+    color: red;
+    font-weight: bold;
+}
+#show_sketch{
+    float:right;
+    font-size: 20px;
+}
+#label{
+    font-family: cursive;
+}
+#confidence{
+    font-family: cursive;
+}
+h1{
+
+font-family: 'Rubik Distressed', cursive;
+}
+#mySketch{
+    font-family: cursive;
+}
